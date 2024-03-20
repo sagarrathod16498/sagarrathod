@@ -22,7 +22,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "require  google doc link",
+			link: "https://docs.google.com/document/d/1dMTLPxzuFbomYNHdbD5lIpCNf0GiPTaV7HU-l66HVsE/edit?usp=sharing",
 			isPrimary: false,
 		},
 	],
@@ -80,7 +80,7 @@ export const projects = {
 		{
 			title: "salon App",
 			description:
-				" build API for salon App and also database in postgreSql",
+				"creation of backend APIs using Node.js, efficient handling of requests and responses for the Salon App & PostgreSQL for data management, optimizing database operations. ",
 			icons: [
 				{
 					icon: faGlobe,
@@ -102,7 +102,7 @@ export const projects = {
 		{
 			title: "Banana Talk app",
 			description:
-				`it is like Minions cartoon languge build in javascript interactive`,
+				`Developed an interactive web application using JavaScript to translate text into the whimsical language of "Minions" from the popular cartoon series.`,
 			icons: [
 				{
 					icon: faGlobe,
@@ -113,7 +113,7 @@ export const projects = {
 		{
 			title: "Uber Web",
 			description:
-				`making UI design clone of uber webapp with all interpolation`,
+				`Created a fully functional UI prototype for an Uber clone application using Figma.`,
 			icons: [
 				{
 					icon: faGlobe,
@@ -139,7 +139,8 @@ export const contact = {
 		},
 		{
 			icon: faEnvelope,
-			link: "mailto:sagarrathod.16498@gmail.com",
+			link: "https://mail.google.com/mail/?view=cm&fs=1&to=sagarrathod.16498@gmail.com",
+			target: '_blank'
 		},
 	],
 };
